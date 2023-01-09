@@ -1,10 +1,9 @@
-p {
-    text-align: center;
-}
-
 body {
     background: #CCCCCC;
-    font-family: sans-serif, "comic sans";
+}
+
+p {
+    text-align: center;
 }
 
 em strong {
