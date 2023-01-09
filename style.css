@@ -4,7 +4,7 @@ p {
 
 body {
     background: #CCCCCC;
-    font-style: "comic sans";
+    font-family: sans-serif, "comic sans";
 }
 
 em strong {
